@@ -3,9 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="3e92c9bf-1e86-4ba7-8e23-dec008e1520f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/backstage/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/base/api/public.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/base/api/system.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/components/Navigation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/components/page/classMusic.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/components/page/myMusic.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/components/page/mySongSheet.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/components/page/recommendMusic.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/components/page/search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/router/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/music/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backstage" beforeDir="false" afterPath="$PROJECT_DIR$/backstage" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backstage/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/backstage/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backstage/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/backstage/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music" beforeDir="false" afterPath="$PROJECT_DIR$/music" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/music/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/music/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/music/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/music/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/music/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +37,21 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backstage" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/music" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -52,19 +85,28 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="F:/Android/SDK" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/backstage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/music/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="ts.external.directory.path" value="D:\idea\IntelliJ IDEA 2019.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\A-2\vueUi\music\src\components" />
+      <recent name="F:\project\A-2\vueUi\music\src" />
       <recent name="F:\project\A-2\vueUi\backstage" />
     </key>
   </component>
@@ -115,9 +157,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.serve" />
+        <item itemvalue="npm.run" />
         <item itemvalue="npm.push" />
         <item itemvalue="npm.add" />
-        <item itemvalue="npm.run" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625101458815</updated>
-      <workItem from="1625101461594" duration="1374000" />
+      <workItem from="1625101461594" duration="10083000" />
     </task>
     <servers />
   </component>
@@ -150,6 +192,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#ESLint" timestamp="1625129106081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1625129106081" />
     <state x="433" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625101491146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -158,34 +204,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="759" y="220" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1625102486570" />
-    <state x="823" y="415" key="Github.ShareDialog" timestamp="1625102513841">
+    <state x="823" y="415" width="274" height="282" key="Github.ShareDialog" timestamp="1625104243439">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="823" y="415" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625102513841" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1625102807392">
+    <state x="823" y="415" width="274" height="282" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625104243439" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1625129030129">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625102807392" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1625102807392">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625129030129" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1625129030128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625102807392" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1625102807391">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625129030128" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1625129030128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625102807391" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1625102807392">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625129030128" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1625129030129">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625102807392" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625129030129" />
     <state x="619" y="222" key="NewModule_or_Project.wizard" timestamp="1625101536510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="619" y="222" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1625101536510" />
+    <state x="756" y="232" key="RollbackChangesDialog" timestamp="1625127134149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="232" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625127134149" />
     <state x="459" y="96" key="SettingsEditor" timestamp="1625101540376">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="459" y="96" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625101540376" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1625103913689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1625103913689" />
     <state x="671" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1625101463946">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

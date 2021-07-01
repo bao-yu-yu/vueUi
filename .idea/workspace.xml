@@ -13,9 +13,6 @@
       <change afterPath="$PROJECT_DIR$/music/src/components/page/search.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/music/src/router/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/music/vue.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backstage" beforeDir="false" afterPath="$PROJECT_DIR$/backstage" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backstage/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/backstage/babel.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backstage/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/backstage/src/main.js" afterDir="false" />
@@ -173,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625101458815</updated>
-      <workItem from="1625101461594" duration="10083000" />
+      <workItem from="1625101461594" duration="10198000" />
     </task>
     <servers />
   </component>
@@ -208,22 +205,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="823" y="415" width="274" height="282" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625104243439" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1625129030129">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1625129186846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625129030129" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1625129030128">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625129186846" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1625129186846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625129030128" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1625129030128">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625129186846" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1625129186845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625129030128" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1625129030129">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625129186845" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1625129186846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625129030129" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625129186846" />
     <state x="619" y="222" key="NewModule_or_Project.wizard" timestamp="1625101536510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
